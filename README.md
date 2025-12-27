@@ -11,7 +11,7 @@
   <a href="https://github.com/nageshchillale">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://leetcode.com/nageshchillale">
+  <a href="https://leetcode.com/u/nageshchillale_rajendra/">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25"/>
   </a>
 </div>
