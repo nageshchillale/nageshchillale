@@ -1,7 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+ 
+<img height="160" src="assets/profile.jpg" alt="Nagesh Chillale" style="border-radius: 50%;" />
 </div>
-
 ---
 
 <div align="center">
@@ -104,9 +104,4 @@ I’m a B.Tech IT student at **Walchand College of Engineering** with hands-on e
 
 ---
 
-## 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nageshchillale&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshchillale&layout=compact&theme=tokyonight" height="160"/>
-</div>
