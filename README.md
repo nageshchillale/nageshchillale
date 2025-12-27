@@ -1,6 +1,6 @@
 <div align="center">
  
-<img height="160" src="assets/profile.jpg" alt="Nagesh Chillale" style="border-radius: 50%;" />
+<img height="160" src="assets/profile.jpeg" alt="Nagesh Chillale" style="border-radius: 50%;" />
 </div>
 ---
 
