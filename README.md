@@ -1,55 +1,112 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/nageshchillale">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://github.com/nageshchillale">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://leetcode.com/nageshchillale">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25"/>
+  </a>
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey 👋 I'm Nagesh Chillale</h1>
 
-###
+<p align="center">
+Backend-leaning Full Stack Developer | Spring Boot · React · Flutter · Data & Systems
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 👨‍💻 About Me
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+I’m a B.Tech IT student at **Walchand College of Engineering** with hands-on experience building
+**backend systems, full-stack applications, and data-driven platforms**.
 
-###
+- 🔭 **Backend Development Intern @ EVarc**  
+  Built Wallet Core APIs using AWS Lambda, MongoDB & clean layered architecture
 
-<h3 align="left">🛠 Language and tools</h3>
+- 📊 **Data Analysis Intern @ E-MC² Lab (VJTI)**  
+  Processed 100k+ rows, performed EDA, and built analytical dashboards
 
-###
+- 🚀 Built production-grade projects with **sub-1s latency** and real users  
+- 🧠 Strong fundamentals: **DSA, DBMS, OS, CN, REST APIs**  
+- ⚡ Solved **330+ LeetCode problems** (75% acceptance)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Futurecollege.com – Automated College Counselling Platform
+**Tech:** React · Spring Boot · Python · MySQL  
+- Eligibility prediction APIs with **P95 < 300 ms**
+- Handled **1,200+ profiles** with **70%+ accuracy**
+- Reduced DB reads by **28%** using indexing & query tuning
+- Improved page load by **450 ms**, end-to-end latency < 1s
+
+---
+
+### 🔹 GetItEase – Campus Buy/Sell & Lost-Found App
+**Tech:** Flutter · Dart · Firebase  
+- **99% crash-free** sessions across 1,000+ interactions
+- Authentication, validation & image compression
+- **40% smaller uploads**, **22% increase** in successful posts
+
+---
+
+## 🧠 Engineering Mindset (What sets me apart)
+
+- I focus on **why before how**
+- I design APIs with **performance & scalability** in mind
+- I document **design decisions**, not just code
+- I optimize for **real users**, not demos
+
+---
+
+## 🛠 Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🔮 Currently Exploring (Future-Demand Skills)
 
-###
+- System design fundamentals for backend services
+- API security (JWT, auth flows, rate limiting)
+- Performance engineering & DB indexing
+- AI-assisted developer tools & agent-based workflows
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nageshchillale&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshchillale&layout=compact&theme=tokyonight" height="160"/>
+</div>
